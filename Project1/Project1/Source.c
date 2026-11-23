@@ -6,3 +6,4 @@
 //        printf("Сильное лечение ветви %d! Ресурсы: %d\n", nline, resources);
 //    }
 //}
+//hello
